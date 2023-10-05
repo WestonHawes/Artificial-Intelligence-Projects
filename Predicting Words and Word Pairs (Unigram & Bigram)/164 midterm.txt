@@ -1,0 +1,8 @@
+164 midterm 
+memorize the definitions of multivariate linear regression
+definitions
+pseudoinverse of X: (X^T X)^-1 X^T
+normal matrix or gram matrix: (X^T X)
+moment matrix: X^T y
+precision matrix: inverse of the covariance matrix
+projection matrix: X(X^T X)^-1 X^T

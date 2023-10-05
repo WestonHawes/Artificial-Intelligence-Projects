@@ -1,0 +1,46 @@
+Project 2 figures
+confusion matricies for each section.
+	could represent as a table in exel
+		method | accuracy
+		knn k=5| %30
+		knn k=1| %35.5
+Make sure to explain results of graphs and in conclusions
+explain why some perfomed the way they did cause->effect
+
+knn
+surpervised learning
+classification
+density based
+no training
+
+kmeans
+unsupervised learning
+clusters
+
+mLP
+supervised learning
+classification/regression
+discriminant appraoch
+non-linear
+feed forward ANN
+
+Convolutional neural network
+Supervised learningclassifier
+discriminantnon
+non-linear
+feed forward ANN
+
+abstract
+introduction
+
+Add the 4 methods in the method section
+
+results seciton
+put the results of the accuracy and method for all 4
+metntion how many examples were used
+
+conclusions 
+extrapolate on teh results and why I got what I got
+cause->effect.
+
+science 281 for extra credit, up to 3 times
